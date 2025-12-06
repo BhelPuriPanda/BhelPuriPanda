@@ -55,11 +55,9 @@ Interested in **Competitive Programming** and **Full-Stack Web Development**.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhelPuriPanda&show_icons=true&theme=tokyonight)
+## 📌 GitHub Quick Stats (stable badges)
+These never break and load instantly:
 
----
-
-## 🔥 Top Contributed Repo
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=1&theme=tokyonight)
-
+![Top Language](https://img.shields.io/github/languages/top/BhelPuriPanda?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/BhelPuriPanda?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/BhelPuriPanda?style=for-the-badge)
