@@ -1,8 +1,10 @@
 # 👋 Hello, I'm Swapnil Verma aka BhelPuriPanda
 
 ## 🧑‍🎓 About Me
-2nd year **Metallurgy student at NIT Rourkela**.  
-Interested in **Competitive Programming** and **Full-Stack Web Development**.
+**Metallurgy student at NIT Rourkela(2024-2028)**.  
+Interested in **Learning about the Tech around us and Devloping fast scalable solutions to everyday problems**.
+
+**Competitive Programming and DSA for some dopamine**
 
 ---
 ## 🛠️ Tech Stack
@@ -30,12 +32,15 @@ Interested in **Competitive Programming** and **Full-Stack Web Development**.
   <img src="https://skillicons.dev/icons?i=express" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
 </p>
 
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
 </p>
 
 ### ⚙️ Tools
@@ -47,6 +52,14 @@ Interested in **Competitive Programming** and **Full-Stack Web Development**.
   <img src="https://skillicons.dev/icons?i=autocad" />  
 </p>
 
+---
+
+## 📫 Let's Connect
+💼 Open to internships and collaboration opportunities  
+🤝 Always interested in discussing tech, engineering, or innovative project ideas  
+📧 Feel free to reach out if you want to build something together!
+
+---
 
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=BhelPuriPanda&theme=tokyonight)
