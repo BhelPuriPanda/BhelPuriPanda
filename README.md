@@ -5,14 +5,6 @@
 Interested in **Competitive Programming** and **Full-Stack Web Development**.
 
 ---
-
-## 🌐 Socials
-[<img src="https://skillicons.dev/icons?i=instagram" width="40"/>](#)
-[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](#)
-[<img src="https://skillicons.dev/icons?i=gmail" width="40"/>](mailto:your@email)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Scripting
@@ -50,16 +42,20 @@ Interested in **Competitive Programming** and **Full-Stack Web Development**.
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=autocad" />  
 </p>
 
 
 ---
-
-### ⭐ GitHub Stats Card  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhelPuriPanda&show_icons=true&theme=tokyonight)
-
-### 🔥 Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=BhelPuriPanda&theme=tokyonight)
 
-### 📘 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhelPuriPanda&layout=compact&theme=tokyonight)
+## 🔥 Top Contributed Repo
+**[BayMax](https://github.com/BhelPuriPanda/BAYMAX-1)**
+**[CLI File Manager](https://github.com/BhelPuriPanda/CLI-FileManager)**
+**[Mystry Message](https://github.com/BhelPuriPanda/mystrymsg)**
+**[TypeGame](https://github.com/BhelPuriPanda/TYPEGAME)**
+**[DelTheta](https://github.com/BhelPuriPanda/DelTheta)**
+
+
