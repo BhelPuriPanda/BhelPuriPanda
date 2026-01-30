@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Swapnil Verma aka BhelPuriPanda
 
 ## 🧑‍🎓 About Me
-**Metallurgy student at NIT Rourkela(2024-2028)**.  
-Interested in **Learning about the Tech around us and Devloping fast scalable solutions to everyday problems**.
+**Metallurgy student at NIT Rourkela(2024-2028)  I LOVE MINERALS ~ ASAC SCHRADER**.  
+Interested in **Learning about the Tech around us and Devloping fast scalable solutions to everyday problems   ------------ jk i code 4 fun**.
 
 **Competitive Programming and DSA for some dopamine**
 
