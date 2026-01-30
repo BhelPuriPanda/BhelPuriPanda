@@ -16,6 +16,7 @@ Interested in **Learning about the Tech around us and Devloping fast scalable so
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
 </p>
 
 ### 🌐 Web Development
@@ -24,6 +25,7 @@ Interested in **Learning about the Tech around us and Devloping fast scalable so
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=ts" />
 </p>
 
 **Backend & Full Stack:**  
@@ -41,6 +43,7 @@ Interested in **Learning about the Tech around us and Devloping fast scalable so
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
 ### ⚙️ Tools
