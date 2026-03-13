@@ -44,6 +44,8 @@ Interested in **Learning about the Tech around us and Devloping fast scalable so
   <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://skillicons.dev/icons?i=firebase" />
   <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=neon" />
+  <img src="https://skillicons.dev/icons?i=drizzle" />
 </p>
 
 ### ⚙️ Tools
@@ -53,6 +55,8 @@ Interested in **Learning about the Tech around us and Devloping fast scalable so
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://skillicons.dev/icons?i=autocad" />  
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=websocket" />
 </p>
 
 ---
