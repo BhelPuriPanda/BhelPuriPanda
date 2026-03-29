@@ -17,6 +17,7 @@ Interested in **Learning about the Tech around us and Devloping fast scalable so
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://skillicons.dev/icons?i=js" />
   <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
 ### 🌐 Web Development
